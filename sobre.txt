@@ -1,0 +1,29 @@
+demorou cerca de 8 minutos para gerar os gráficos 
+
+Tempo de execução do Quick Sort para vetor crescente (50 elementos): 0.00016009999671950936 segundos
+Tempo de execução do Insertion Sort para vetor crescente (50 elementos): 7.800001185387373e-06 segundos   
+Tempo de execução do Quick Sort para vetor decrescente (50 elementos): 0.00011419999646022916 segundos    
+Tempo de execução do Insertion Sort para vetor decrescente (50 elementos): 0.00012839998817071319 segundos
+Tempo de execução do Quick Sort para vetor aleatório (50 elementos): 4.4899992644786835e-05 segundos      
+Tempo de execução do Insertion Sort para vetor aleatório (50 elementos): 6.659998325631022e-05 segundos   
+
+Tempo de execução do Quick Sort para vetor crescente (500 elementos): 0.01529469998786226 segundos      
+Tempo de execução do Insertion Sort para vetor crescente (500 elementos): 6.339995888993144e-05 segundos
+Tempo de execução do Quick Sort para vetor decrescente (500 elementos): 0.011218899977393448 segundos
+Tempo de execução do Insertion Sort para vetor decrescente (500 elementos): 0.016671699995640665 segundos
+Tempo de execução do Quick Sort para vetor aleatório (500 elementos): 0.0005475999787449837 segundos
+Tempo de execução do Insertion Sort para vetor aleatório (500 elementos): 0.00689979997696355 segundos
+
+Tempo de execução do Quick Sort para vetor crescente (5000 elementos): 1.5009609999833629 segundos
+Tempo de execução do Insertion Sort para vetor crescente (5000 elementos): 0.0009414000087417662 segundos
+Tempo de execução do Quick Sort para vetor decrescente (5000 elementos): 1.014320400019642 segundos
+Tempo de execução do Insertion Sort para vetor decrescente (5000 elementos): 1.3899665000499226 segundos
+Tempo de execução do Quick Sort para vetor aleatório (5000 elementos): 0.008116799988783896 segundos
+Tempo de execução do Insertion Sort para vetor aleatório (5000 elementos): 0.7153436999651603 segundos
+
+Tempo de execução do Quick Sort para vetor crescente (50000 elementos): 152.50629109999863 segundos
+Tempo de execução do Insertion Sort para vetor crescente (50000 elementos): 0.006997099961154163 segundos
+Tempo de execução do Quick Sort para vetor decrescente (50000 elementos): 100.87385040003574 segundos
+Tempo de execução do Insertion Sort para vetor decrescente (50000 elementos): 140.18466960004298 segundos
+Tempo de execução do Quick Sort para vetor aleatório (50000 elementos): 0.1028775000013411 segundos
+Tempo de execução do Insertion Sort para vetor aleatório (50000 elementos): 70.56892270001117 segundos
